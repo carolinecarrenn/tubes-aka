@@ -1,7 +1,8 @@
 # Tubes_AKA 
 
-Caroline Carren Aurelia R (2311102174)
-Yesika Widiyani (2311102195)
+**Caroline Carren Aurelia R (2311102174)**
+
+**Yesika Widiyani (2311102195)**
 
 Informatics Engineering, Telkom University Purwokerto, Indonesia  
 2024
