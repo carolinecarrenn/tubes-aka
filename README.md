@@ -8,7 +8,7 @@ Informatics Engineering, Telkom University Purwokerto, Indonesia
 2024
 
 ## [English]
-This program is written in Python. This program is designed to predict weather using Decision Tree and Random Forest algorithms. The purpose is to compare the performance of these algorithms. To observe the differences between the two algorithms
+This program is written in Python. This program is designed to predict weather using Decision Tree algorithms. 
 
 ## [Bahasa Indonesia]
-Program ini dibuat menggunakan bahasa Python. Program ini dirancang untuk memprediksi cuaca dengan menggunakan algoritma Decision Tree dan Random Forest. Tujuannya adalah untuk membandingkan kinerja kedua algoritma tersebut. 
+Program ini dibuat menggunakan bahasa Python. Program ini dirancang untuk memprediksi cuaca dengan menggunakan algoritma Decision Tree. 
